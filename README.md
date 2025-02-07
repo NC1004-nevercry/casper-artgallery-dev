@@ -1,4 +1,4 @@
-# Art Waves
+# Casper Zhang Test Project
 
 Task is to add a new API for the backend project.
 The API should fetch trading pairs and their related information from decentralized exchanges.
@@ -23,7 +23,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  node server/index.js
 ```
 
 Api endpoint
